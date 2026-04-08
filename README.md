@@ -8,7 +8,7 @@ This is a professional event planning website featuring a clean, modern design w
 
 ## 🌐 Live Demo
 
-Check out the live version: [https://iam269.github.io/Event-Organisers/](https://iam269.github.io/Event-Organisers/)
+Check out the live version: [https://itsiamdev.github.io/Event-Organisers/](https://itsiamdev.github.io/Event-Organisers/)
 
 ## ✨ Features
 
